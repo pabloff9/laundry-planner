@@ -1,4 +1,4 @@
-package br.com.pabloff9.clotheswashingplanner;
+package br.com.pabloff9.laundryplanner;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package br.com.pabloff9.clotheswashingplanner;
+package br.com.pabloff9.laundryplanner;
 
 import org.junit.Test;
 
