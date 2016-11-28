@@ -1,0 +1,11 @@
+Planejador de lavagem de roupas
+
+1) Usuário cadastra rotina de lavagens (dias da semana e hora). A aplicação mostra uma tela que diz se vai chover ou não no dia e hora que a roupa deve estar secando.
+
+2) A aplicação recebe periodicamente dados sobre previsão de tempo e compara com as horas de secagem. Se alguma das horas de secagem estiver durante um período de alta probabilidade de chuva e dentro de um certo tempo limite definido, a aplicação alertará o usuário e pedirá para remarcar a lavagem.
+
+3) Na tela de remarcar lavagem, a aplicação deve oferecer a data e hora mais próxima ou pedir que a pessoa selecione  uma nova data manualmente.
+
+4) A aplicação não deve sugerir lavagens que façam com que a hora de colocar no varal caia durante períodos nos quais o usuário não está disponível.
+
+5) Os períodos não disponíveis, o tempo da lavagem e o tempo médio de secagem devem ser configuráveis.
